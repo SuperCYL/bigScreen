@@ -1,0 +1,102 @@
+{
+  "name": "@hk-componentPackage/wbRealTimeContent",
+  "version": "0.0.2",
+  "dependencies": {
+    "bcore": "0.0.18",
+    "jquery": "2.1.4",
+    "lodash": "4.6.1"
+  },
+  "datav": {
+    "cn_name": "wbRealTimeContent",
+    "icon": "",
+    "protocol": 2,
+    "type": [
+      "regular"
+    ],
+    "view": {
+      "width": "1300",
+      "height": "500",
+      "minWidth": "200",
+      "minHeight": "100"
+    },
+    "apis": {
+      "source": {
+        "handler": "render",
+        "description": "接口描述",
+        "fields": {
+          "value": {
+            "description": "值说明"
+          }
+        }
+      }
+    },
+    "config": {
+      "size": {
+        "name": "字号",
+        "type": "number",
+        "default": 22,
+        "range": [
+          10,
+          100
+        ]
+      }
+    },
+    "api_data": {
+      "source": [
+        {
+            "accountId":"5213379204",
+            "contentId":"J2ClWzeCi",
+            "title":" 北京新冠肺炎在院病人下降至6例 ",
+            "score":322.54,
+            "url":"https://m.weibo.cn/detail/4506240888397670",
+            "attitudesNum":5,
+            "shareNum":5,
+            "releaseTime":"2020-05-19 10:53:20",
+            "readNum":null,
+            "commentNum":5,
+            "contentType":2
+        },
+        {
+            "accountId":"5213379204",
+            "contentId":"J2Cm0FTZV",
+            "title":"精彩问答！大检察官与大学生共话中国法治⑦",
+            "score":322.54,
+            "url":"https://m.weibo.cn/detail/4506240929986707",
+            "attitudesNum":5,
+            "shareNum":5,
+            "releaseTime":"2020-05-19 10:53:20",
+            "readNum":null,
+            "commentNum":5,
+            "contentType":2
+        },
+        {
+            "accountId":"5213379204",
+            "contentId":"J2Cm59rT4",
+            "title":" 2019年申请的344个贫困县全部脱贫摘帽 ",
+            "score":322.54,
+            "url":"https://m.weibo.cn/detail/4506240972252154",
+            "attitudesNum":5,
+            "shareNum":5,
+            "releaseTime":"2020-05-19 10:53:20",
+            "readNum":null,
+            "commentNum":5,
+            "contentType":2
+        },
+        {
+            "accountId":"5213379204",
+            "contentId":"J2Cmln1K4",
+            "title":" 58岁父亲搬瓦20年供女儿上大学 网友：父爱如山",
+            "score":322.54,
+            "url":"https://m.weibo.cn/detail/4506241135488244",
+            "attitudesNum":5,
+            "shareNum":5,
+            "releaseTime":"2020-05-19 10:53:18",
+            "readNum":null,
+            "commentNum":5,
+            "contentType":2
+        }
+       
+      ]
+    }
+  }
+}

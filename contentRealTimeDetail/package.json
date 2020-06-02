@@ -1,0 +1,64 @@
+{
+  "name": "@hk-componentPackage/contentRealTimeDetail",
+  "version": "0.3.9",
+  "dependencies": {
+    "bcore": "0.0.18",
+    "jquery": "2.1.4",
+    "lodash": "4.6.1"
+  },
+  "datav": {
+    "cn_name": "contentRealTimeDetail",
+    "icon": "",
+    "protocol": 2,
+    "type": [
+      "regular"
+    ],
+    "view": {
+      "width": "500",
+      "height": "1000",
+      "minWidth": "200",
+      "minHeight": "100"
+    },
+    "apis": {
+      "source": {
+        "handler": "render",
+        "description": "接口描述",
+        "fields": {
+          "value": {
+            "description": "值说明"
+          }
+        }
+      }
+    },
+    "config": {
+      "size": {
+        "name": "字号",
+        "type": "number",
+        "default": 22,
+        "range": [
+          10,
+          100
+        ]
+      }
+    },
+    "api_data": {
+      "source": 
+        {
+          "accountId":"3645618043224903",
+          "contentType":3,
+          "accountName":"台州交警",
+          "contentId":"6824407006649142535",
+          "author":"台州交警",
+          "title":"粗心！停车忘拉手刹，司机和车辆上演你追我赶@抖音小助手 @公安部交通管理局 @浙江之声",
+          "releaseTime":"2020-05-08 17:44:38",
+          "content":null,
+          "photoUrls":null,
+          "videoUrls":[
+              "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/dy/6831428261613014276.mp4"
+          ],
+          "isOriginal":null,
+          "authorshipContent":null
+        }
+    }
+  }
+}

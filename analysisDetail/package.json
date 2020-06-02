@@ -1,0 +1,72 @@
+{
+  "name": "@hk-componentPackage/analysisDetail",
+  "version": "0.1.1",
+  "dependencies": {
+    "bcore": "0.0.18",
+    "jquery": "2.1.4",
+    "lodash": "4.6.1"
+  },
+  "datav": {
+    "cn_name": "analysisDetail",
+    "icon": "",
+    "protocol": 2,
+    "type": [
+      "regular"
+    ],
+    "view": {
+      "width": "500",
+      "height": "1000",
+      "minWidth": "200",
+      "minHeight": "100"
+    },
+    "apis": {
+      "source": {
+        "handler": "render",
+        "description": "接口描述",
+        "fields": {
+          "value": {
+            "description": "值说明"
+          }
+        }
+      }
+    },
+    "config": {
+      "size": {
+        "name": "字号",
+        "type": "number",
+        "default": 22,
+        "range": [
+          10,
+          100
+        ]
+      }
+    },
+    "api_data": {
+      "source": 
+        {
+          "accountId":"gh_97aed6b3abb9",
+        "contentType":null,
+        "accountName":"秀洲法院",
+        "contentId":"019004c222e7a1a0b7539cf20e726f87",
+        "author":"秀洲法院",
+        "title":"赞赞人民好法官丨锦旗：刑庭法官的520“礼物”",
+        "releaseTime":"2020-05-23 10:59:00",
+        "content":"刑事法官在老百姓眼里，似乎都长着一张“扑克脸”，甚至显得不近人情，但刑事法官在铁面无私、秉公办案的同时，也常常有一颗“柔软的心”，尤其是我们的女法官，在惩罚犯罪时，往往能产生巨大的“共情”能力，做到情理法的交融。\n在全网“表白日”\n5月20日当天，在全网“表白”的日子，秀洲法院刑事审判庭童潇兰法官也收到了当事人家属浓浓的“爱意”——一面写有“\n月日当天，在全网“表白”的日子，秀洲法院刑事审判庭童潇兰法官也收到了当事人家属浓浓的“爱意”——一面写有“\n怀爱民之心 办利民之事\n”的锦旗，表达了当事人及其家属对法官办案的认可与感激。\n洪某是一起故意伤害案的受害人，其在向金某催讨租金的过程中无故被打，故洪某及其家属十分气愤，一致要求严惩凶手，并提出了附带民事诉讼。童法官在审理此案过程中，对于被害人洪某及其家属的心情十分地理解，但也告知被害人要在合理合法的范围内表达诉求，并多次致电被害人及其家属对该案处理的事实和法律依据耐心释明，被害人及其家属在童法官的耐心解释之后终于表示理解，并愿意配合法院工作。同时，童法官意识到该案的刑事附带民事诉讼部分的妥善处理对修复双方当事人的关系也将会起到很大的作用，故第一时间组织双方进行调解并积极协调，最终金某向法院预缴了民事赔偿款，洪某在案件生效后也顺利从法院取走了赔偿款。\n洪某的家属被童法官在该案中认真严谨、尽职尽责的工作态度所感动，故送来了这面鲜红的锦旗。当童法官接过当事人送的锦旗时，她显得很腼腆，连连对当事人说：“这真的没什么，都是本职工作。”童法官说这面锦旗是沉甸甸的，因为它既是肯定也是鞭策。\n司法不仅是分辨是非的正义之剑，更具有化干戈为玉帛的神奇力量，“怀爱民之心 办利民之事”便是对秀洲法院法官一心为民、公正司法的最好诠释，也饱含着老百姓对秀洲法院工作的认可和赞誉。秀洲法院亦将以此为鞭策，不忘初心使命，公正司法，让老百姓有更多的司法获得感。\n司法不仅是分辨是非的正义之剑，更具有化干戈为玉帛的神奇力量，“怀爱民之心 办利民之事”便是对秀洲法院法官一心为民、公正司法的最好诠释，也饱含着老百姓对秀洲法院工作的认可和赞誉。秀洲法院亦将以此为鞭策，不忘初心使命，公正司法，让老百姓有更多的司法获得感。\n秀洲法院秀洲法院法治好声音 司法正能量\n版式丨张程丽丨童潇兰 潘霞\n",
+        "photoUrls":[
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXticuHk3FNLAribmupz9yWRJmPgqS1AvV4IdsKhjxmcTYoX88hFdhvV6O9fzuET6qz6iciadicOH0HWicyQ.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/Ljib4So7yuWglZq1R89wJtXDFMwqLusqCcgJ6jAXB9XswvdurByUGYM2wpn9IPEclHZfc6ibWHgibY64d8IXEfJ9g.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXticuHk3FNLAribmupz9yWRJmNqK2bBtg4Kiby1HL23kwXN6ECh7DOk4ZUUF4HR1DIOySIyL6RtgJm2A.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXssic0lTicmbqyuHj9ZCWLr4XYXImuLiasx5Q46z17IjB31jah5ObKJib54fZ1AHjBP05aBv1YeEac78Q.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXticuHk3FNLAribmupz9yWRJmUa0tCxB12HBSwouOHh2p76WhBulP87A3ibF7Q4Xb8eaqjTOaHlmt4AA.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/Ljib4So7yuWghmLDesJkwlpBqOoLoaK22T5nrkbAVYsnXLLTZKAjxqLl0oJT1NTWPs30iauqoc6EjckoqkVnGkow.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXssic0lTicmbqyuHj9ZCWLr4XibxibjunhjRkaGWPlY2ibc6FdSBYyAGDg7kictcH9WOc4icYkGleb9ge6rg.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXticuHk3FNLAribmupz9yWRJmIkE5B3k7lH2haoqPqWvEvUFo8brGibzZ1RnqO1ItEOKFOAq5OJWUic8w.jpg",
+            "https://ymr-test.oss-cn-hangzhou.aliyuncs.com/gzh/ibJHCPeEcCXsiaY4F4iaicG7GxPQTN9bPD7DROdLicfRjJwspZlLANudX5LwtFSMibw9mvV3cq9DTlSvzaQg3jUHoDFg.jpg"
+        ],
+        "videoUrls":null,
+        "isOriginal":0,
+        "authorshipContent":null
+        }
+    }
+  }
+}
